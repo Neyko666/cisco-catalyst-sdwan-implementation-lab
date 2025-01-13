@@ -13,35 +13,35 @@ cEdge *2
 
 <br>
 Technologies implemented:
-<br>
+ 
 • Onboarded SD-WAN contollers and WAN edges initially with CLI and migrated to templates
-<br>
+ 
 • Deployed OSPF, EIGRP, IBGP respectively on site 2, 3 and 4 for underlay networks 
-<br>
+
 • Network segmentation (transport vpn0, management vpn512, service vpn1, 2) and data isolation
-<br>
+
 • TLOC Extention allowing WAN Edges with single transport link to have dual transport and failover (site 4)
-<br>
+
 • NAT on TLOC with internet color 
-<br>
+
 • AAR(Application Aware Routing) and SLA policies (protocol based, DPI, etc)
-<br>
+
 • Create Zone-Based-Policy firewall and security policies restricting SSH traffic
 
 <br>
 GNS3 dedicated server specs:
 <br>
 Model: Dell PowerEdge R630
-<br>
+
 RAM: 96G(42G assigned)
-<br>
+
 CPU: 36 cores(26 assigned)
-<br>
+
 Storage: 600G
-<br>
+
 OS: Proxmox VE 8.3
 
-<br>
+
 <br>
 <div align = "center">
 <img src="https://github.com/Neyko666/cisco-catalyst-sdwan-implementation-lab/assets/171580092/facda568-c352-4351-9505-f71e652377e5" width="800">
