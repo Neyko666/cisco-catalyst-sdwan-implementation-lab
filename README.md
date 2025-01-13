@@ -12,9 +12,8 @@ vEdge *4
 cEdge *2
 
 <br>
-<br>
 Technologies implemented:
-
+<br>
 • Onboarded SD-WAN contollers and WAN edges initially with CLI and migrated to templates
 
 • Deployed OSPF, EIGRP, IBGP respectively on site 2, 3 and 4 for underlay networks 
@@ -31,7 +30,7 @@ Technologies implemented:
 
 <br>
 GNS3 dedicated server specs:
-
+<br>
 Model: Dell PowerEdge R630
 
 RAM: 96G(42G assigned)
@@ -45,7 +44,7 @@ OS: Proxmox VE 8.3
 <br>
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/cisco-catalyst-sdwan-implementation-lab/assets/171580092/070d1b30-8d74-478d-a6a8-6ddc778b95ed" width="800">
+<img src="https://github.com/Neyko666/cisco-catalyst-sdwan-implementation-lab/assets/171580092/facda568-c352-4351-9505-f71e652377e5" width="800">
 </div>
 <br>
 <br>
