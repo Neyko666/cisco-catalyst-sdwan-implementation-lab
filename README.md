@@ -41,7 +41,10 @@ Storage: 600G
 
 OS: Proxmox VE 8.3
 <br>
+
+
 config file: https://drive.google.com/file/d/1sp745i-lgb_nEcepV4P-rsEBovpvKx8o/view?usp=sharing
+
 <br>
 <div align = "center">
 <img src="https://github.com/Neyko666/cisco-catalyst-sdwan-implementation-lab/assets/171580092/facda568-c352-4351-9505-f71e652377e5" width="800">
