@@ -45,7 +45,7 @@ OS: Proxmox VE 8.3
 
 
 config file: https://drive.google.com/file/d/1sp745i-lgb_nEcepV4P-rsEBovpvKx8o/view?usp=sharing<br>
---controller&vedge username: admin   password:ney<br>
+--controllers&edges username: admin   password:ney<br>
 --site4_server username: ney   password: ney123
 
 <br>
